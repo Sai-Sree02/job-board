@@ -63,10 +63,10 @@ GitHub Actions automatically:
 3. Validates successful compilation
 
 ## Live Demo
-https://hireai-job-board-peach.vercel.app
+https://job-board-gamma-two.vercel.app/
 
 ## Repository
-https://github.com/Sai-Sree02/hireai-job-board
+https://github.com/Sai-Sree02/job-board.git
 
 ## AI Tools Used
 - Bolt.new
